@@ -1,62 +1,14 @@
 [
     {
-        "name": "Eggy Car",
-        "file": "/games/eggycar/index.html",
-        "img": "/games/eggycar/thumbnail.png"
-    },
-
-    {
-        "name": "Grey-Box Testing",
-        "file": "/games/greyboxtesting/index.html",
-        "img": "/games/greyboxtesting/thumbnail.png"
-    },
-
-    {
-        "name": "Where's Bill",
-        "file": "/games/wheresbill/index.html",
-        "img": "/games/wheresbill/thumbnail.png"
-    },
-
-    {
-        "name": "Subway Surfers",
-        "file": "/games/subwaysurfers/index.html",
-        "img": "/games/subwaysurfers/thumbnail.png"
-    },
-
-    {
-        "name": "Vex",
-        "file": "/games/vex/games/waflash/?swf=vex.swf&name=Vex%201",
-        "img": "/games/vex/thumbnail.png"
-    },
-
-    {
-        "name": "Flappy Bird",
-        "file": "/games/flappybird/index.html",
-        "img": "/games/flappybird/thumbnail.png"
-    },
-
-    {
-        "name": "Friday Night Funkin'",
-        "file": "/games/fnf/index.html",
-        "img": "/games/fnf/thumbnail.jpg"
+        "name": "2048",
+        "file": "/projects/2048",
+        "img": "/img/2048.png"
     },
 
     {
         "name": "Cookie Clicker",
-        "file": "/games/cookieclicker/index.html",
-        "img": "/games/cookieclicker/thumbnail.png"
-    },
-
-    {
-        "name": "Minecraft",
-        "file": "/games/minecraft/index.html",
-        "img": "/games/minecraft/thumbnail.png"
-    },
-
-    {
-        "name": "Cluster Rush",
-        "file": "/games/clusterrush/index.html",
-        "img": "/games/clusterrush/thumbnail.png"
+        "file": "/projects/cookie-clicker",
+        "img": "/img/cookie-clicker.png"
     },
 
     {
@@ -66,26 +18,26 @@
     },
 
     {
-        "name": "FNAF 1",
-        "file": "/games/fnaf1/index.html",
-        "img": "/games/fnaf1/thumbnail.jpg"
+        "name": "Binding of Isaac",
+        "file": "/projects/binding-of-isaac",
+        "img": "/img/bfi.jpg"
     },
 
     {
-        "name": "Super Mario 64",
-        "file": "/games/sm64/index.html",
-        "img": "/games/sm64/thumbnail.jpg"
+        "name": "Chrome Dino",
+        "file": "/projects/chrome-dino",
+        "img": "/img/dino-game.png"
     },
 
     {
-        "name": "FNAF 2",
-        "file": "/games/fnaf2/index.html",
-        "img": "/games/fnaf2/thumbnail.jpg"
+        "name": "Drive Mad",
+        "file": "/projects/drive-mad",
+        "img": "/img/drive-mad.png"
     },
 
     {
-        "name": "Flappy 2048",
-        "file": "/games/flappy2048/index.html",
-        "img": "/games/flappy2048/thumbnail.png"
+        "name": "Retro Bowl",
+        "file": "/projects/retro-bowl",
+        "img": "/img/retro-bowl.png"
     }
 ]
