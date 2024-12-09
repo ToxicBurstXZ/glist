@@ -35,6 +35,43 @@
         "img": "/img/drive-mad.png"
     },
 
+    
+    {
+        "name": "Cluster Rush",
+        "file": "/projects/clusterrush",
+        "img": "/img/cluster-truck.png"
+    },
+
+    {
+        "name": "Doge Miner",
+        "file": "/projects/doge-miner",
+        "img": "/img/doge-miner.png"
+    },
+
+    {
+        "name": "Learn to Fly",
+        "file": "/projects/learn-to-fly",
+        "img": "/img/learn-how-to-fly.png"
+    },
+
+    {
+        "name": "Slope",
+        "file": "/projects/slope",
+        "img": "/img/slope.png"
+    },
+
+    {
+        "name": "YoHoHo",
+        "file": "/projects/yohoho",
+        "img": "/img/yohoho.png"
+    },
+
+    {
+        "name": "Run 3",
+        "file": "/run-3/tn6pS9dCf37xAhkJv/",
+        "img": "/img/run-3.png"
+    },
+    
     {
         "name": "Retro Bowl",
         "file": "/projects/retro-bowl",
