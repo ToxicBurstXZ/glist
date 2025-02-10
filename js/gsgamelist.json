@@ -14,67 +14,67 @@
     {
         "name": "Monkey Mart",
         "file": "/projects/monkey-mart/",
-        "img": "/img/monkey-mart.png"
+        "img": "https://raw.githubusercontent.com/ToxicBurstXZ/img/main/monkey-mart.png"
     },
 
     {
         "name": "Binding of Isaac",
         "file": "/projects/binding-of-isaac",
-        "img": "/img/bfi.jpg"
+        "img": "https://raw.githubusercontent.com/ToxicBurstXZ/img/main/bfi.jpg"
     },
 
     {
         "name": "Chrome Dino",
         "file": "/projects/chrome-dino",
-        "img": "/img/dino-game.png"
+        "img": "https://raw.githubusercontent.com/ToxicBurstXZ/img/main/dino-game.png"
     },
 
     {
         "name": "Drive Mad",
         "file": "/projects/drive-mad",
-        "img": "/img/drive-mad.png"
+        "img": "https://raw.githubusercontent.com/ToxicBurstXZ/img/main/drive-mad.png"
     },
 
     
     {
         "name": "Cluster Rush",
         "file": "/projects/clusterrush",
-        "img": "/img/cluster-truck.png"
+        "img": "https://raw.githubusercontent.com/ToxicBurstXZ/img/main/cluster-truck.png"
     },
 
     {
         "name": "Doge Miner",
         "file": "/projects/doge-miner",
-        "img": "/img/doge-miner.png"
+        "img": "https://raw.githubusercontent.com/ToxicBurstXZ/img/main/doge-miner.png"
     },
 
     {
         "name": "Learn to Fly",
         "file": "/projects/learn-to-fly",
-        "img": "/img/learn-how-to-fly.png"
+        "img": "https://raw.githubusercontent.com/ToxicBurstXZ/img/main/learn-how-to-fly.png"
     },
 
     {
         "name": "Slope",
         "file": "/projects/slope",
-        "img": "/img/slope.png"
+        "img": "https://raw.githubusercontent.com/ToxicBurstXZ/img/main/slope.png"
     },
 
     {
         "name": "YoHoHo",
         "file": "/projects/yohoho",
-        "img": "/img/yohoho.png"
+        "img": "https://raw.githubusercontent.com/ToxicBurstXZ/img/main/yohoho.png"
     },
 
     {
         "name": "Run 3",
         "file": "/run-3/tn6pS9dCf37xAhkJv/",
-        "img": "/img/run-3.png"
+        "img": "https://raw.githubusercontent.com/ToxicBurstXZ/img/main/run-3.png"
     },
     
     {
         "name": "Retro Bowl",
         "file": "/projects/retro-bowl",
-        "img": "/img/retro-bowl.png"
+        "img": "https://raw.githubusercontent.com/ToxicBurstXZ/img/main/retro-bowl.png"
     }
 ]
