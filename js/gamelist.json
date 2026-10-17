@@ -1,80 +1,80 @@
 [
     {
         "name": "2048",
-        "file": "/projects/2048",
+        "file": "/Assets/projects/2048",
         "img": "/img/2048.png"
     },
 
     {
         "name": "Cookie Clicker",
-        "file": "/projects/cookie-clicker",
+        "file": "/Assets/projects/cookie-clicker",
         "img": "/img/cookie-clicker.png"
     },
 
     {
         "name": "Monkey Mart",
-        "file": "/projects/monkey-mart/",
+        "file": "/Assets/projects/monkey-mart/",
         "img": "/img/monkey-mart.png"
     },
 
     {
         "name": "Binding of Isaac",
-        "file": "/projects/binding-of-isaac",
+        "file": "/Assets/projects/binding-of-isaac",
         "img": "/img/bfi.jpg"
     },
 
     {
         "name": "Chrome Dino",
-        "file": "/projects/chrome-dino",
+        "file": "/Assets/projects/chrome-dino",
         "img": "/img/dino-game.png"
     },
 
     {
         "name": "Drive Mad",
-        "file": "/projects/drive-mad",
+        "file": "/Assets/projects/drive-mad",
         "img": "/img/drive-mad.png"
     },
 
     
     {
         "name": "Cluster Rush",
-        "file": "/projects/clusterrush",
+        "file": "/Assets/projects/clusterrush",
         "img": "/img/cluster-truck.png"
     },
 
     {
         "name": "Doge Miner",
-        "file": "/projects/doge-miner",
+        "file": "/Assets/projects/doge-miner",
         "img": "/img/doge-miner.png"
     },
 
     {
         "name": "Learn to Fly",
-        "file": "/projects/learn-to-fly",
+        "file": "/Assets/projects/learn-to-fly",
         "img": "/img/learn-how-to-fly.png"
     },
 
     {
         "name": "Slope",
-        "file": "/projects/slope",
+        "file": "/Assets/projects/slope",
         "img": "/img/slope.png"
     },
 
     {
         "name": "YoHoHo",
-        "file": "/projects/yohoho",
+        "file": "/Assets/projects/yohoho",
         "img": "/img/yohoho.png"
     },
 
     {
         "name": "Run 3",
-        "file": "/run-3/tn6pS9dCf37xAhkJv/",
+        "file": "Assets//run-3/tn6pS9dCf37xAhkJv/",
         "img": "/img/run-3.png"
     },
     
     {
         "name": "Retro Bowl",
-        "file": "/projects/retro-bowl",
+        "file": "/Assets/projects/retro-bowl",
         "img": "/img/retro-bowl.png"
     }
 ]
